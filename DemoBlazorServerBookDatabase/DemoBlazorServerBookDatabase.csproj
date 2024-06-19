@@ -11,6 +11,12 @@
 	<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.10" />
+	<PackageReference Include="Syncfusion.Blazor.Spinner" Version="22.2.10" />
+	<PackageReference Include="Syncfusion.Blazor.Themes" Version="22.2.10" />
+	<PackageReference Include="Syncfusion.Blazor.Popups" Version="22.2.10" />
+	<PackageReference Include="Syncfusion.Blazor.Navigations" Version="22.2.10" />
+	<PackageReference Include="Syncfusion.Blazor.Grid" Version="22.2.10" />
+	<PackageReference Include="Syncfusion.Blazor.Buttons" Version="22.2.10" />
   </ItemGroup>
 
 </Project>
